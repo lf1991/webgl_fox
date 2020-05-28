@@ -1,19 +1,7 @@
 <template>
     <div class="_nav_header">
-        <div class="_header_logo">super case</div>
-        <div class="_header_router">
-            <div>
-                <router-link to="/Mountain">Mountain</router-link>
-            </div>
-            <div>
-                <router-link to="/Wind">Wind</router-link>
-            </div>
-            <div>
-                <router-link to="/Plotting">Plotting</router-link>
-            </div>
-            <div>
-                <router-link to="/WebGL">WebGL</router-link>
-            </div>
+        <div class="_header_logo">webgl fox</div>
+       <div class="_header_router">
             <div>
                 <router-link to="/Demo">Demo</router-link>
             </div>
